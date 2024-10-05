@@ -27,7 +27,7 @@ Data Enhancement: Implemented various data cleaning and enhancement techniques t
 Dashboard Creation: Developed a comprehensive data analytics dashboard using Snowsight, Snowflake’s modern web UI for interactive data visualization.
 Analysis Focus: The dashboard provides insights into real estate price trends, market dynamics, and property features, offering valuable information for understanding pricing patterns and market conditions.
 
-<h3>Tools and Technologies:</h3>
+<h3>Tools and Technologies used:</h3>
 
 Snowsight Modern Web UI: Utilized for data warehousing, staging, loading, creating and visualizing the data analytics dashboard.
 
