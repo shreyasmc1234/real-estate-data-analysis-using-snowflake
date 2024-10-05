@@ -3,7 +3,7 @@ This project focuses on analyzing real estate prices using data sourced from Oto
 
 ## Architectural Diagram
 ![diagram-export-9-7-2024-9_34_00-PM](https://github.com/user-attachments/assets/d65f15a6-882c-4537-bcfc-266aa2c3c235)
-![IMG_20241005_215321](https://github.com/user-attachments/assets/d65f15a6-882c-4537-bcfc-266aa2c3c235
+
 ## FlowChart
 ![diagram-export-9-7-2024-9_33_22-PM](https://github.com/user-attachments/assets/8557b38f-7b61-4780-b39f-9648d4e18b14)
 
